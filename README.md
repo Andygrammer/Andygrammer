@@ -1,16 +1,26 @@
 ### Hi there 👋
 
+- 😃 I’m André Marinho
+- 📈 I'm a data scientist student
+- 📖 I’m currently studying masters degree at [@USP](https://www5.usp.br)
+- 📫 How to reach me: [@My LinkedIn](https://www.linkedin.com/in/andré-batemarchi/)
+
+---
+
+### My interests 💭
+- 🐍 Python, R, Java
+- 🍄 Data mining, machine learning
+- 🌐 Combinatorial optimization
+
+---
+
+### Fun facts ⚡
+- 🍜 I'm a nihongo student
+- 🏃 Love running
+- 🎧 Electronic music producer (Euro Trance lover) 
+
+### Hey, do not forget to commit your work haha! 💾
+### Cheers! ☕
+
 <!--
 **Andygrammer/Andygrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
