@@ -9,7 +9,7 @@
 
 ### My interests 💭
 - 🐍 Python, R, Java
-- 🍄 Data mining, machine learning
+- 🧠 Data mining, machine learning
 - 🌐 Combinatorial optimization
 
 ---
@@ -19,7 +19,6 @@
 - 🏃 Love running
 - 🎧 Electronic music producer (Euro Trance lover) 
 
-### Hey, do not forget to commit your work haha! 💾
 ### Cheers! ☕
 
 <!--
