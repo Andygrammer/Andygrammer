@@ -4,6 +4,7 @@
 - 📈 I'm a data science student
 - 📖 I’m currently pursuing a master's degree at [@USP](https://www5.usp.br)
 - 📫 How to reach me: [@My LinkedIn Profile](https://www.linkedin.com/in/andré-batemarchi/)
+- 🍱 データサイエンス学生 | 大学院学生 - USP
 
 ---
 
