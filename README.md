@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😃 I’m André Marinho (マリニョアンドレイ)
+- 😃 I’m André Marinho (マリーニョアンドレイ)
 - 📈 I'm a data science student
 - 📖 I’m currently pursuing a master's degree at [@USP](https://www5.usp.br)
 - 📫 How to reach me: [@My LinkedIn Profile](https://www.linkedin.com/in/andré-batemarchi/)
