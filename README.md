@@ -18,7 +18,7 @@
 ### Fun facts ⚡
 - 🍜 I'm a nihongo student
 - 🏃 Love running and swimming :swimmer: 
-- 🎧 Electronic music producer (Euro Trance lover) 
+- 🎧 Electronic music fan - Euro Trance lover
 
 ### Cheers! ☕
 
