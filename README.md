@@ -22,7 +22,6 @@
 
 ### Cheers! ☕
 
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andygrammer&layout=compact)](https://github.com/Andygrammer/github-readme-stats" />
 </p>
