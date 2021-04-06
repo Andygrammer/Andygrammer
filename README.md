@@ -22,7 +22,7 @@
 
 ### Cheers! ☕
 
-![Visitor Count](https://profile-counter.glitch.me/{Andygrammer}/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://github.com/Andygrammer/Andygrammer)
 
 <!--
 **Andygrammer/Andygrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
