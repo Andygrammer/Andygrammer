@@ -22,7 +22,17 @@
 
 ### Cheers! ☕
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://github.com/Andygrammer/Andygrammer)
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andygrammer&layout=compact)](https://github.com/Andygrammer/github-readme-stats" />
+</p>
+
+<p align=center>
+<img height="20" src="https://badges.pufler.dev/visits/Andygrammer/ruch798?color=black&logo=github" />
+<img height="20" src="https://komarev.com/ghpvc/?username=Andygrammer&color=brightgreen" />
+<a href="https://github.com/Andygrammer">
+</a>
+</p>
 
 <!--
 **Andygrammer/Andygrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
