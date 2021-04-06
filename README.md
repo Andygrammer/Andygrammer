@@ -22,5 +22,7 @@
 
 ### Cheers! ☕
 
+![Visitor Count](https://profile-counter.glitch.me/{Andygrammer}/count.svg)
+
 <!--
 **Andygrammer/Andygrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
