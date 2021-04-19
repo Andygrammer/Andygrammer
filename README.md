@@ -20,6 +20,10 @@
 - 🏃 Love running and swimming :swimmer: 
 - 🎧 Electronic music fan - Euro Trance lover
 
+---
+
+### Visit my data science portfolio 📈 https://andygrammer.github.io/blog/
+
 ### Cheers! ☕
 
 <p align="center">
