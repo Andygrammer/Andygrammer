@@ -11,7 +11,7 @@
 ### My interests 💭
 - 🐍 Python, R, Java
 - 🧠 Data mining, machine learning
-- 🌐 Combinatorial optimization
+- 📐 Maths Problems
 
 ---
 
