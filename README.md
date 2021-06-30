@@ -17,6 +17,7 @@
 
 ### Fun facts ⚡
 - 🍜 I'm a nihongo student
+- 🐦 Birdwatching: I love all species of birds
 - 🏃 Love running and swimming :swimmer: 
 - 🎧 Electronic music fan - Euro Trance lover
 
