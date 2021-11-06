@@ -25,6 +25,7 @@
 ---
 
 ### Visit my data science portfolio 📈 https://andygrammer.github.io/blog/
+### Visit CPC for programming challenges! 🥇 https://andremarinho.gitbook.io/cpc/
 
 ### Cheers! ☕
 
