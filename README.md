@@ -21,13 +21,20 @@
 - 🏃 Love running and swimming :swimmer: 
 - 🎧 Electronic music fan - Euro Trance lover
 
-🐦About my avatar on GitHub: Cyanocorax caeruleus, or Azure jay, or even Gralha azul (in pt-br). It's a beautiful passeriform bird from southeast of Brazil.
+---
+
+<p>
+  🐦About my avatar on GitHub: Cyanocorax caeruleus, or Azure jay, or even Gralha azul (in pt-br). It's a beautiful passeriform bird from southeast of Brazil.
+</p>
+
 ---
 
 ### Visit my data science portfolio 📈 https://andygrammer.github.io/blog/
 ### Visit CPC for programming challenges! 🥇 https://andremarinho.gitbook.io/cpc/
 
 ### Cheers! ☕
+
+---
 
 <!-- Visit count badges -->
 <p align=center>
