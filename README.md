@@ -29,18 +29,21 @@
 
 ### Cheers! ☕
 
-<!--
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andygrammer&layout=compact)](https://github.com/Andygrammer/github-readme-stats" />
 </p>
-!-->
 
+<!-- Visit count badges -->
 <p align=center>
-<img height="20" src="https://badges.pufler.dev/visits/Andygrammer/ruch798?color=black&logo=github" />
-<img height="20" src="https://komarev.com/ghpvc/?username=Andygrammer&color=brightgreen" />
-<a href="https://github.com/Andygrammer">
-</a>
+  <img height="20" src="https://badges.pufler.dev/visits/Andygrammer/ruch798?color=black&logo=github" />
+  <img height="20" src="https://komarev.com/ghpvc/?username=Andygrammer&color=brightgreen" />
+  <a href="https://github.com/Andygrammer"></a>
 </p>
+
+<!-- Snake Game -->
+<div> 
+  ![Snake animation](https://github.com/Andygrammer/Andygrammer/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <!--
 **Andygrammer/Andygrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
