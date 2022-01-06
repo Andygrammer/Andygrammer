@@ -9,7 +9,7 @@
 ---
 
 ### My interests 💭
-- 🐍 Python, R, Java
+- 🐍 Python, C#, Java
 - 🧠 Data mining, machine learning
 - 📐 Maths problems
 
