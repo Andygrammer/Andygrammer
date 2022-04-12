@@ -1,21 +1,34 @@
 ### Hi there 👋
 
 - 😃 I’m André Batemarchi (バテマルキ・アンドレイ)
-- 📈 I'm a data science student
-- 📖 I’m currently pursuing a master's degree at [@USP](https://www5.usp.br)
+- 🚀 Full stack developer
+- 💻 3 years experience with .NET/.NET Core, RPA, and data science
+- 🍱 フルスタックエンジニア
 - 📫 How to reach me: [@My LinkedIn Profile](https://www.linkedin.com/in/andré-batemarchi/)
-- 🍱 データサイエンス学生 | 大学院学生 - USP
 
 ---
 
-### My interests 💭
-- 🐍 Python, C#, Java
-- 🧠 Data mining, machine learning
-- 📐 Maths problems
+### My technical skills
+- 🌕 .NET Core, Java
+- 🌒 Angular
+- 💿 MySQL, PostgreSQL, MongoDB
+- 🚢 Docker
+- ☁️ AWS, Azure
+- 🛠️ JIRA, Gitlab, Jenkins
+- 📊 Python, PowerBI
 
 ---
 
-### Fun facts ⚡
+### Familiar industries
+- 🏦 Banking
+- 🍛 Food 
+- 🥤 Drink
+- 🛡️ Secutiry
+- ⛽ Oil & gas
+
+---
+
+### Fun facts
 - 🍜 I'm a nihongo student
 - 🐦 Birdwatching: I love all species of birds
 - 🏃 Love running and swimming :swimmer: 
