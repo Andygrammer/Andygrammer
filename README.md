@@ -3,7 +3,6 @@
 - 😃 I’m André Batemarchi (バテマルキ・アンドレイ)
 - 🚀 Full stack developer
 - 💻 3 years experience with .NET/.NET Core, RPA, and data science
-- 🍱 フルスタックエンジニア
 - 📫 How to reach me: [@My LinkedIn Profile](https://www.linkedin.com/in/andré-batemarchi/)
 
 ---
