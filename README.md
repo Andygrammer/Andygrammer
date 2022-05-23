@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😃 I’m André Batemarchi (バテマルキ・アンドレイ)
-- 🚀 3 years experience with .NET/.NET Core, Angular, RPA, and data science
+- 🚀 3 years of experience with .NET/.NET Core, Angular, RPA, and data science
 - 📫 How to reach me: [@My LinkedIn Profile](https://www.linkedin.com/in/andré-batemarchi/)
 
 ---
