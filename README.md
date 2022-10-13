@@ -21,7 +21,7 @@
 - 🏦 Banking
 - 🍛 Food 
 - 🥤 Drink
-- 🛡️ Secutiry
+- 🛡️ Security
 - ⛽ Oil & gas
 
 ---
