@@ -1,12 +1,14 @@
-### Hi there 👋
+## Hi there 👋😃 I’m André Batemarchi (バテマルキ・アンドレイ)
 
-- 😃 I’m André Batemarchi (バテマルキ・アンドレイ)
-- 🚀 4 years of experience with .NET/.NET Core, Angular, RPA, and data science
-- 📫 How to reach me: [@My LinkedIn Profile](https://www.linkedin.com/in/andré-batemarchi/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-batemarchi/)
+[![Data Science Portfolio Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://andygrammer.github.io/blog/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998.svg?&style=for-the-badge&logo=website&logoColor=white)](https://andremarinho.gitbook.io/cpc/)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/andremarin)
+[![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/and201456)
 
 ---
 
-### Cloud, Infra, Programming, Databases, Machine Learning, Data Science, CE/CI/CD 
+### Cloud, Infra, Programming, Databases, Machine Learning, Data Science, CE/CI/CD, Tools 
 
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="Azure" width="60" height="60"/>   
@@ -27,7 +29,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
 </p>
+
+
+
+          
 
 ### Certs
 
@@ -66,7 +74,7 @@
 ---
 
 ### Visit my data science portfolio 📈 https://andygrammer.github.io/blog/
-### Visit CPC for programming challenges! 🥇 https://andremarinho.gitbook.io/cpc/
+### Visit CPC for programming challenges! 🥇 
 
 ### Cheers! ☕
 
