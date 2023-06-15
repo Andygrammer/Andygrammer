@@ -44,11 +44,32 @@
 
 ### Certs
 
-- SAFe® 6 Practitioner
-- Microsoft: Designing and Implementing Microsoft DevOps Solutions (AZ-400)
-- Oracle: Java SE 8 Programmer I (1Z0-808)
-- Cisco: Interconnecting Networking Devices Part 1 (640-822 ICND1)
-- Oracle: SQL Certified Expert (1Z0-047)
+<p align="left"> 
+  <img src="./res/azure1.png" alt="Microsoft: Designing and Implementing Microsoft DevOps Solutions (AZ-400)" width="100" height="100">
+  <img src="./res/safe.png" alt="SAFe® 6 Practitioner" width="100" height="100">
+  <img src="./res/java.png" alt="Oracle: Java SE 8 Programmer I (1Z0-808)" width="100" height="100">
+  <img src="./res/sql.png" alt="Oracle: SQL Certified Expert (1Z0-047)" width="100" height="100">
+</p>
+
+### IBM Badges
+
+<p align="left"> 
+  <img src="./res/IBM/cloud-core.png" width="100" height="100">
+  <img src="./res/IBM/docker-essentials-a-developer-introduction.png" width="100" height="100">
+    <img src="./res/IBM/enterprise-design-thinking-practitioner.png" width="100" height="100">
+  <img src="./res/IBM/knowledge-sharing-for-business-impact.png" width="100" height="100">
+  <img src="./res/IBM/ibm-growth-behaviors.png" width="100" height="100">
+  <img src="./res/IBM/chemicals-and-petroleum-industry-jumpstart.png" alt="IBM-3" width="100" height="100">
+  <img src="./res/IBM/devsecops-essentials.png" width="100" height="100">
+  <img src="./res/IBM/security-and-privacy-by-design-foundations.png" width="100" height="100">
+  <img src="./res/IBM/ibm-quantum-conversations.png" width="100" height="100">
+  <img src="./res/IBM/ibm-quantum-challenge-fall-2022-achievement-foundational.png" width="100" height="100">
+  <img src="./res/IBM/ibm-ai-associate-for-all-ibmers.png" width="100" height="100">
+  <img src="./res/IBM/trustworthy-ai-and-ai-ethics.png" width="100" height="100">
+  <img src="./res/IBM/ibm-garage-foundation.1.png" width="100" height="100">
+  <img src="./res/IBM/ibm-garage-essentials.png" width="100" height="100">
+  <img src="./res/IBM/virtual-selling-foundation.png" width="100" height="100">
+</p>
 
 ---
 
