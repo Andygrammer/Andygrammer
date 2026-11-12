@@ -42,9 +42,6 @@
   <a href="https://github.com/Andygrammer"></a>
 </p>
 
-<!-- Snake Game -->
-![Snake animation](https://github.com/Andygrammer/Andygrammer/blob/output/github-contribution-grid-snake.svg)
-
 <!-- remove language stats
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andygrammer&layout=compact)](https://github.com/Andygrammer/github-readme-stats" />
